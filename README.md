@@ -1,5 +1,5 @@
 # IDD-Fa18-Lab3-Prep
-Prep work for Lab 3 by Chris Brownell.
+Prep work for Lab 3 by Chris Brownell (ckb77)
 
 Idea sketches for data logger:
 
